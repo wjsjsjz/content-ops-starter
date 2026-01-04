@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Welcome to Custom T's
       color: text-dark
     subtitle: Increase your reach
     text: >
