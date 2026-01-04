@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: If you have question contact us
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: |+
 
 
