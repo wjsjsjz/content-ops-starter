@@ -71,13 +71,6 @@
             "url": "https://twitter.com/netlify",
             "icon": "twitter",
             "type": "Social"
-        },
-        {
-            "type": "Social",
-            "altText": "",
-            "url": "/",
-            "icon": "mail",
-            "elementId": ""
         }
     ],
     "legalLinks": [
