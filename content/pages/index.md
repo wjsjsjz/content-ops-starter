@@ -34,6 +34,8 @@ sections:
     subtitle: ''
     text: |
       Click below to open the design tool and create your custom shirt.
+
+      (The price can variate depending on your design)
     actions:
       - type: Button
         label: Make own shirt
