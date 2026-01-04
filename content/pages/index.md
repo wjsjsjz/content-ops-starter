@@ -32,9 +32,9 @@ sections:
       text: Make your own shirt
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      Click below to open the design tool and create your austom shirt.
+
     actions:
       - type: Button
         label: Make own shirt
