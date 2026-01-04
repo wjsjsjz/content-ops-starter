@@ -30,7 +30,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Make your own shirt
       color: text-dark
     subtitle: ''
     text: >
