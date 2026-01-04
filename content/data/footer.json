@@ -74,7 +74,7 @@
         },
         {
             "type": "Social",
-            "altText": "Vimeo link",
+            "altText": "",
             "url": "/",
             "icon": "mail",
             "elementId": ""
