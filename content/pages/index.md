@@ -18,7 +18,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-        showIcon: true
+        showIcon: false
     media:
       type: ImageBlock
       url: /images/1000007243_1764780759-removebg-preview (1).png
