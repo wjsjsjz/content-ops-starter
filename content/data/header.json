@@ -13,7 +13,7 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "Contact us",
+            "label": "About us",
             "altText": "",
             "url": "/",
             "showIcon": false,
@@ -24,7 +24,7 @@
         },
         {
             "type": "Link",
-            "label": "About us",
+            "label": "Contact us",
             "altText": "",
             "url": "/",
             "showIcon": false,
