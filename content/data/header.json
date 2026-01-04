@@ -96,19 +96,7 @@
             "elementId": ""
         }
     ],
-    "secondaryLinks": [
-        {
-            "type": "Link",
-            "label": "About us",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        }
-    ],
+    "secondaryLinks": [],
     "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
     "type": "Header",
