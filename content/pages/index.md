@@ -38,7 +38,7 @@ sections:
       posts.
     actions:
       - type: Button
-        label: Get started
+        label: Make own shirt
         url: /
         icon: arrowRight
         iconPosition: right
