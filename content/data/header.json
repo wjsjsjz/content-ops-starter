@@ -96,7 +96,19 @@
             "elementId": ""
         }
     ],
-    "secondaryLinks": [],
+    "secondaryLinks": [
+        {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        }
+    ],
     "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
     "type": "Header",
