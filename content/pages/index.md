@@ -8,9 +8,12 @@ sections:
       text: Welcome to Custom T's
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      Click below to open the design tool and create your custom shirt.
+
+
+
+
     actions:
       - type: Button
         label: Shop
