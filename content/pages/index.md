@@ -8,12 +8,8 @@ sections:
       text: Welcome to Custom T's
       color: text-dark
     subtitle: ''
-    text: |+
-      Click below to open the design tool and create your custom shirt.
-
-
-
-
+    text: |
+      Click below to open the design tool and create your austom shirt.
     actions:
       - type: Button
         label: Shop
