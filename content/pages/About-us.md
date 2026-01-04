@@ -9,8 +9,11 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      We are a small starting business and really enjoy what we do, we try to be
+      creative with our designs and try to improve our designs to the maximum
+      and ofcourse improve our skills. We hope you like our creativity and our
+      designs but you can ofcourse also send in your own idea's and designs so
+      that we can make those for you!
     actions: []
     media:
       type: ImageBlock
