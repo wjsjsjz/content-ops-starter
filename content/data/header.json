@@ -34,6 +34,17 @@
             "elementId": ""
         },
         {
+            "type": "Link",
+            "label": "Make your own shirt",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "Male",
             "altText": "Heren kleiding",
             "links": [
@@ -105,17 +116,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "type": "Link",
-            "label": "Make your own shirt",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
