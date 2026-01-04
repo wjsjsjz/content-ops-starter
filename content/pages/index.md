@@ -22,10 +22,6 @@ sections:
       type: ImageBlock
       url: /images/1000007243_1764780759-removebg-preview (1).png
       altText: Fun feature preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
