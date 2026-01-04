@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: If you have question contact us
+      text: If you have a question you can contact us
       color: text-dark
     subtitle: ''
     text: |+
