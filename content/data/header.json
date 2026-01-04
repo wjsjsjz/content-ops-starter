@@ -12,11 +12,33 @@
     },
     "primaryLinks": [
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "type": "Link",
+            "label": "About us",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Contact us",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "label": "Male",
+            "altText": "Heren kleiding",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "All Products",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -24,7 +46,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "T-shirts",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -32,7 +54,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Hoodies",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -42,10 +64,52 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "SubNav",
+            "label": "Women",
+            "altText": "Dames",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "All Products",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "T-shirts",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Hoodies",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "Custom T's"
 }

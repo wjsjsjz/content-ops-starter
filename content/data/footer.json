@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Custom T's\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -61,27 +61,15 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/customts_/",
+            "icon": "instagram",
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
+            "altText": "TikTok link",
             "url": "https://twitter.com/netlify",
             "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
             "type": "Social"
         }
     ],
