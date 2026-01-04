@@ -32,9 +32,8 @@ sections:
       text: Make your own shirt
       color: text-dark
     subtitle: ''
-    text: |+
-      Click below to open the design tool and create your austom shirt.
-
+    text: |
+      Click below to open the design tool and create your custom shirt.
     actions:
       - type: Button
         label: Make own shirt
