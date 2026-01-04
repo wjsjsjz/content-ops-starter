@@ -54,7 +54,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Female shirts
+      text: Woman shirts
       color: text-dark
       styles:
         self:
