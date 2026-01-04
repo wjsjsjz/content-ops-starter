@@ -13,7 +13,7 @@ sections:
       posts.
     actions:
       - type: Button
-        label: Get started
+        label: Shop
         url: /
         icon: arrowRight
         iconPosition: right
