@@ -99,7 +99,7 @@
     "secondaryLinks": [
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "About us",
             "altText": "",
             "url": "/",
             "showIcon": false,
