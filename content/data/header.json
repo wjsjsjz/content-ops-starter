@@ -44,17 +44,6 @@
             "type": "SubNav"
         },
         {
-            "type": "Link",
-            "label": "Contact us",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
             "type": "SubNav",
             "label": "Women",
             "altText": "Dames",
@@ -94,6 +83,17 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "Contact us",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
